@@ -3,8 +3,8 @@
 # License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 
 {
-    "name": "Openworx Material Backend Theme V12",
-    "summary": "Openworx Material Backend Theme V12	",
+    "name": "Material Backend Theme V12 (2)",
+    "summary": "Material Backend Theme V12	",
     "version": "12.0.0.3",
     "category": "Theme/Backend",
     "website": "http://www.openworx.nl",
